@@ -2,9 +2,6 @@
 
 This repository contains the java file that can be ran in order to display word frequencies in a given sentence.
 
-
-Time spent: **3** hours spent in total
-
 ## How to Execute the Program
 
 - Download the repository.
