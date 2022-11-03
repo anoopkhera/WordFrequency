@@ -5,7 +5,7 @@ This is repository contains the java file that can be ran in order to display wo
 
 Time spent: **3** hours spent in total
 
-## How to Execute the file
+## How to Execute the Program
 
 - Download the repository.
 - In a terminal, move to the directory where this project is located.
