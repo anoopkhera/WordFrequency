@@ -10,7 +10,7 @@ Time spent: **3** hours spent in total
 - Download the repository.
 - In a terminal, move to the directory where this project is located.
 - Change directory to the java directory (WordFrequency/src/main/java) where the package (com/example) is located.
-- From here, we can run the command: javac Main.java 
+- From here, we can compile the code by running the command: javac Main.java 
 - This will create a class file (Main.class) that we can execute in our terminal.
 - To run the Main.class file, use hte following command: java org.example.Main
 - Provide text after the command if you would like to see the frequencies of each word in that text.
