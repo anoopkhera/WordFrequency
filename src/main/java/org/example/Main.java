@@ -27,7 +27,6 @@ class Pair {
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hi! Here are the frequencies of each character in the sentence:");
 
         Map<String, Integer> frequencies = new HashMap<>();
 
